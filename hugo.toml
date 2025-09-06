@@ -1,6 +1,6 @@
 baseURL = 'https://amilacg.github.io/'
 languageCode = 'en-us'
-title = 'Fragment Flow'
+title = 'Pixels & Pipelines'
 theme = 'PaperMod'
 
 [caches]
