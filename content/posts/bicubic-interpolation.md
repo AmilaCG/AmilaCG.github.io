@@ -1,6 +1,6 @@
 +++
 date = '2025-09-06T16:30:28-04:00'
-draft = false
+draft = true
 title = 'Bicubic Interpolation Based Image Upscaling'
 [params]
     math = true
