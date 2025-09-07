@@ -15,4 +15,6 @@ theme = 'PaperMod'
           block = [['\[', '\]'], ['$$', '$$']]
           inline = [['\(', '\)']]
     [markup.goldmark.renderer]
-      unsafe = true
+      unsafe = false
+[params.assets]
+  customCSS = ["css/credit.css"]

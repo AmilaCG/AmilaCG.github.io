@@ -13,9 +13,9 @@ The key idea is that bicubic interpolation doesn’t just look at a pixel and it
 |--------|--------------|---------------|--------------|
 | ![Native](/images/bicubic-interpolation/native.png) | ![Nearest](/images/bicubic-interpolation/nearest_x4.png) | ![Bilinear](/images/bicubic-interpolation/bilinear_x4.png) | ![Bicubic](/images/bicubic-interpolation/bicubic_x4.png) |
 
-<p style="font-size:0.8em; color:gray;">
+{{< credit >}}
 By James Petts / shaddim - Cropped from 
 <a href="//commons.wikimedia.org/wiki/File:Green_sea_shell_(11985932994).jpg" title="File:Green sea shell (11985932994).jpg">Green sea shell (11985932994).jpg</a>, 
 <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, 
 <a href="https://commons.wikimedia.org/w/index.php?curid=47847740">Link</a>
-</p>
+{{< /credit >}}
